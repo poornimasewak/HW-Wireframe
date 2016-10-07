@@ -25,7 +25,7 @@ nav {
 section {
 	background: #ebebeb;
 	float: left;
-	padding: 55px 20px 20px;
+	padding: 43px 20px 20px;
 	margin: 0 20px 20px 20px;
 	overflow: auto;
 	text-align: center;
@@ -34,7 +34,7 @@ section {
 article {
 	background: #777;
 	overflow: auto;
-	padding: 10px 0 0 0;
+	padding: 20px 0 0 0;
 	margin-top: 40px;
 	color: #ebebeb;
 }
